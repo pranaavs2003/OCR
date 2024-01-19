@@ -1,0 +1,10 @@
+fastapi
+requests
+opencv-python
+numpy
+pandas
+tqdm
+pydantic
+mltu
+keras
+datetime
