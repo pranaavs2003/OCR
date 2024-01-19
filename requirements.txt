@@ -8,3 +8,4 @@ pydantic
 mltu
 keras
 datetime
+uvicorn
