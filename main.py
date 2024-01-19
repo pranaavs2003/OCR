@@ -26,6 +26,7 @@ origins = [
     "http://localhost:8080",
     "http://localhost:3000",
     "https://checkd.vercel.app"
+    "https://ocr-a4g8.onrender.com"
 ]
 
 # Add the CORS middleware to the app
